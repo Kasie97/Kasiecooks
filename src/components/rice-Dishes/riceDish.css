@@ -1,0 +1,42 @@
+.scroll-container-category {
+    width: 800px;
+    /* height: 800px; */
+    overflow-x: auto; 
+  }
+  
+  .scroll-content-category {
+    display: flex;
+    gap: 15px; 
+    width: max-content; 
+    transition: transform 0.3s ease-in-out; 
+  
+  }
+
+  .riceP{
+    font-size: 11px;
+    font-family: 'Courier New', Courier, monospace;
+ 
+  }
+
+  .riceO{
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .scroll-item {
+    flex: 0 0 auto; 
+    background-color: gray;
+  }
+  
+  /* Apply mobile-specific styles */
+  @media (max-width: 767px) {
+    .scroll-container {
+      height: auto;
+      overflow-x: scroll; 
+      white-space: nowrap; 
+    }
+    .scroll-content {
+      width: 100%; 
+    }
+  }
+  
