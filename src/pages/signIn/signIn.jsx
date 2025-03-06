@@ -188,7 +188,7 @@ const SignIn = () => {
         
         </div>
         <div className='w-2/5 mt-14'>
-          <h3 className='naija text-[#2f80ed] text-center capitalize font-extrabold text-3xl'>eat good naija</h3>
+          <h3 className='naija text-[#2f80ed] text-center capitalize font-extrabold text-3xl'>Kasie Cooks</h3>
           <p className='text-center text-3xl font-semibold mt-6'>Welcome Back</p>
           <div className='ml-10 mr-10 mt-6'>
             <button className='flex item-center justify-center gap-2 border-gray-200 text-gray-400 w-full border p-2 rounded-lg'>

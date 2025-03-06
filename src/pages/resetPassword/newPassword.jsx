@@ -76,7 +76,7 @@ const NewPassword = () => {
       
       </div>
             <div className='md:w-2/5 mt-[-700px] sm:mt-52'>
-                <h3 className='naija text-[#2f80ed] text-center capitalize font-extrabold text-3xl'>eat good naija</h3>
+                <h3 className='naija text-[#2f80ed] text-center capitalize font-extrabold text-3xl'></h3>
                 <p className='text-center text-3xl font-semibold mt-6'>Choose a new password</p>
 
                 <div className="flex items-center justify-center mt-5 mb-5">

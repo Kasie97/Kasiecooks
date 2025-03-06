@@ -9,7 +9,7 @@ const Footer = () => {
              <div className='flex items-center justify-between ml-52 mr-52'>
 
         <div>
-            <p className='text-sm font-extralight'>© 2023 EatGoodNaija| Powered by EatGoodNaija</p>
+            <p className='text-sm font-extralight'>© 2024 Kasie Cooks| Powered by EatGoodNaija</p>
         </div>
 
         

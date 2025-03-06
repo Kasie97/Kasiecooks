@@ -6,8 +6,8 @@ const Navbar = () => {
         <div className='bg-white h-20'>
         <div className='flex items-center gap-32 justify-between'>
          <div className='ml-24 flex '>
-            <img src="https://res.cloudinary.com/dmfb370xe/image/upload/v1707601370/Thai_Hot_Pot_zcvcfj.jpg" alt="" />
-         <img src="https://res.cloudinary.com/dmfb370xe/image/upload/v1707601468/Eat_Good_Naija_mz2iuc.jpg" className='w-32 h-5 mt-4' alt="" />
+            <img src="src/assets/kc.png" alt="Kasie cooks logo" width="90" height="90" />
+            <img src="src/assets/kasc.png" alt="Kasie cooks logo" width="90" height="90" />
          </div>
          <div className=''>
             <ul className='flex items-center mt-4 justify-items-center gap-10 mr-32'>

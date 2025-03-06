@@ -78,7 +78,7 @@ const ResetPassword = () => {
       
       </div>
         <div className='md:w-2/5 mt-[-700px] sm:mt-24'>
-          <h3 className='naija text-[#2f80ed] text-center capitalize font-extrabold text-3xl'>eat good naija</h3>
+          <h3 className='naija text-[#2f80ed] text-center capitalize font-extrabold text-3xl'>Kasie Cooks</h3>
           <p className='text-center text-3xl font-semibold mt-6'>Reset your password</p>
           <p className='text-sm text-center text-gray-400 mt-4'>Enter your email below and we'll send you instructions on <br /> how to reset your password.</p>
        
